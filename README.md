@@ -58,6 +58,6 @@ The project is structured into multiple reports:
 
 ## 🔗 Author
 **Durga Sairam**  
-- [LinkedIn](www.linkedin.com/in/durga-sairam-a35b00291)  
+- [LinkedIn](https://www.linkedin.com/in/durga-sairam-a35b00291/)  
 - [Portfolio/GitHub](your-github-url)  
 
